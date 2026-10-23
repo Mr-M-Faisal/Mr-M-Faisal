@@ -116,16 +116,7 @@ Menu, hi-tea buffet, gallery, location and a reservation-request form for a Fais
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mr-M-Faisal&show_icons=true&hide_border=true&bg_color=1b0a0e&title_color=ff4d6a&text_color=c9a7ae&icon_color=ffb02e" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-M-Faisal&layout=compact&hide_border=true&bg_color=1b0a0e&title_color=ff4d6a&text_color=c9a7ae" />
-
-</div>
-
-<br/>
 
 ## 📬 Let's Connect
 
